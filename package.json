@@ -13,7 +13,12 @@
   "author": "Daniel S. Won",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.1",
+    "express": "^4.18.2",
+    "react-bootstrap": "^2.8.0",
+    "react-icons": "^4.10.1",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "concurrently": "^8.2.0",
